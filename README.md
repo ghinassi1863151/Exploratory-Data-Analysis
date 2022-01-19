@@ -4,5 +4,5 @@
 
 In this notebook we did an Exploratory Data Analysys on the kaggle dataset _Steam Reviews_ that you can download at the following links:
 
-1. https://www.kaggle.com/najzeko/steam-reviews-2021
+- https://www.kaggle.com/najzeko/steam-reviews-2021
 
